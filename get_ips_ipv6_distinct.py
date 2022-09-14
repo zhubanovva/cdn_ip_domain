@@ -22,7 +22,7 @@ import socket
 from datetime import datetime
 
 # variables
-url_list = ['enazadev.cdnvideo.ru', 'enazadev-audio.cdnvideo.ru', 'tivision.ru', 'ivi.ru', 'cdnvideo.ru', 'gcdn.co'] 
+url_list = ['etc.example1.ru', 'example-2.audio.ru', 'mail.ru', 'ivi.ru', 'cdnvideo.ru', 'fghf.co'] 
 
 ip_list=[]
 
